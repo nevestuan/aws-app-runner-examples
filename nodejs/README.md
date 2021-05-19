@@ -1,9 +1,19 @@
-# Node Hello World
+# NodeJS example for AWS App Runner
 
-Simple node.js app that servers "hello world"
+Once succesfully launched, returns  text "Hello from AWS App Runner"
 
-Great for testing simple deployments to the cloud
+
+## Installtion command
+
+`npm install`
 
 ## Run It
 
 `npm start`
+
+
+## How to check if the application is running
+
+Access application via the Default domain in **AWS App Runner** Console
+
+Check also the **Status**, it should display running
