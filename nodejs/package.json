@@ -1,0 +1,20 @@
+{
+  "name": "aws-app-runner-nodejs-example",
+  "version": "1.0.1",
+  "description": "AWS App runner example and demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/advissor/aws-app-runner-examples"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/advissor/aws-app-runner-examples/issues"
+  },
+  "homepage": "https://github.com/advissor/aws-app-runner-examples#readme"
+}
